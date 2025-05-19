@@ -55,7 +55,7 @@ java Pizzeria
 
 ---
 
-📸 Sample Output
+## 📸 Sample Output
 
 Welcome to Pizzeria!
 What is your name?
@@ -79,7 +79,7 @@ Please make a selection:
 
 ---
 
-🧠 What You’ll Learn
+## 🧠 What You’ll Learn
 
 This project demonstrates:
 
@@ -91,8 +91,14 @@ Cost breakdown and receipt formatting
 
 ---
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 Java (Standard Edition)
 Command-Line Interface (CLI)
 No external libraries required
+
+---
+
+## 💡 Want to See a Visual Version?
+
+🔗  **GitHub Repo:** [https://github.com/TrishaAndres/java-pizzeria-react](https://github.com/TrishaAndres/jave-pizzeria-react)
