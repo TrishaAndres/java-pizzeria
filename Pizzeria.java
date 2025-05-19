@@ -19,7 +19,7 @@ public class Pizzeria {
         ArrayList<Pizza> pizzas = new ArrayList<Pizza>();
 
         // print intro
-        System.out.println("Welcome to Adkins Pizzeria!");
+        System.out.println("Welcome to Pizzeria!");
 
         // ask customer what their name is and set it to new customer object
         System.out.println("What is your name?");
