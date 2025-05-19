@@ -28,9 +28,13 @@ Welcome to **Pizzeria**, a command-line Java application that simulates a full p
 ## 📁 Project Structure
 
 ├── Customer.java # Customer data & rewards logic
+|
 ├── Pizza.java # Pizza object and cost calculations
+|
 ├── Pizzeria.java # Main program logic and user interaction
+|
 ├── Receipt.java # Receipt generation and calculations
+|
 ├── Toppings.java # Topping type and cost per inch
 
 ---
