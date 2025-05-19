@@ -62,12 +62,19 @@ What is your name?
 > Trisha
 
 MENU
+
 z - Add a Pizza
+
 t - Print the total
+
 r - Print the Receipt
+
 d - Delete a pizza that was ordered
+
 q - Quit
+
 c - Close the pizzeria for the day
+
 Please make a selection:
 
 ---
