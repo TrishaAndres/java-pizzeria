@@ -101,4 +101,4 @@ No external libraries required
 
 ## 💡 Want to See a Visual Version?
 
-🔗  **GitHub Repo:** [https://github.com/TrishaAndres/java-pizzeria-react](https://github.com/TrishaAndres/jave-pizzeria-react)
+🔗  **GitHub Repo:** [https://github.com/TrishaAndres/pizzeria-react](https://github.com/TrishaAndres/pizzeria-react)
